@@ -19,6 +19,6 @@ PATCH version when you make backwards-compatible bug fixes.
 ## [Unreleased]
 - None
 
-## [0.0.1] - 3-12-2019
+## [0.0.1] - 3-13-2019
 ### Added
-- deploy-release bash script (tested on Linode)
+- release-php bash script (tested on Linode)
